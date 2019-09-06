@@ -1,6 +1,6 @@
 {
-    "name": "ziplr/php-qr-code",
-    "description": "PHP Qr Code Generator compatible with php 7.0",
+    "name": "drbiko/php-qr-code",
+    "description": "PHP QR Code Generator compatible with PHP 7.0",
     "autoload": {
         "psr-0": {
             
