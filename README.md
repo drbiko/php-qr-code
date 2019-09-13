@@ -14,7 +14,7 @@ $ composer require drbiko/php-qr-code
 ## Usage 
 ```php
 require __DIR__ . "/vendor/autoload.php";
-QRcode::png('https://github.com/ziplr/php-qr-code', false, QR_ECLEVEL_H, 10, 0);
+QRcode::png('https://github.com/drbiko/php-qr-code', false, QR_ECLEVEL_H, 10, 0);
 ```
 
 [examples] (http://phpqrcode.sourceforge.net/examples/index.php)
